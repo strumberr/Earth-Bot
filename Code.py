@@ -12,6 +12,7 @@ import requests
 from datetime import datetime
 import pytz
 
+print("This code was made by Strumber \nGitHub: https://github.com/strumberr")
 
 bot = commands.Bot(command_prefix='!')
 
